@@ -1,0 +1,38 @@
+# Core
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+tqdm==4.66.5
+
+# Deep Learning
+pytorch-lightning
+torch
+torchvision
+torchaudio
+
+# NLP / Transformers
+transformers==4.43.3
+sentencepiece==0.2.0
+tokenizers==0.19.1
+
+# Image Processing
+Pillow==10.3.0
+opencv-python==4.10.0.84
+timm==1.0.7  # Best compatible with Torch 2.3.1
+
+# Utils
+requests==2.32.3
+urllib3==2.2.3
+beautifulsoup4==4.12.3
+
+# Experiment Tracking (optional)
+wandb==0.18.1
+# LLM
+openai
+groq
+google-genai
+google-generativeai
+# hyperparameter optimization
+optuna
